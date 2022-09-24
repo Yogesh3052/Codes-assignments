@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(){
+    int i=0;
+    do{
+        printf("even number=%d\n",i);
+        i=i+2;
+    }
+    while(i<10);
+    return 0;
+}

@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Assign1",
+            "request": "launch",
+            "mainClass": "Assign1",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch transpose",
+            "request": "launch",
+            "mainClass": "transpose",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch darrays",
+            "request": "launch",
+            "mainClass": "darrays",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch identiti",
+            "request": "launch",
+            "mainClass": "identiti",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch circumference",
+            "request": "launch",
+            "mainClass": "circumference",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch great",
+            "request": "launch",
+            "mainClass": "great",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch odd",
+            "request": "launch",
+            "mainClass": "odd",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch average",
+            "request": "launch",
+            "mainClass": "average",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch numpat",
+            "request": "launch",
+            "mainClass": "numpat",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch squre",
+            "request": "launch",
+            "mainClass": "squre",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch hollw",
+            "request": "launch",
+            "mainClass": "hollw",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch hollowsquarepattern",
+            "request": "launch",
+            "mainClass": "hollowsquarepattern",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattersquare",
+            "request": "launch",
+            "mainClass": "pattersquare",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch report",
+            "request": "launch",
+            "mainClass": "report",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch eve",
+            "request": "launch",
+            "mainClass": "eve",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch robot",
+            "request": "launch",
+            "mainClass": "robot",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch compare",
+            "request": "launch",
+            "mainClass": "compare",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch even",
+            "request": "launch",
+            "mainClass": "even",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch second",
+            "request": "launch",
+            "mainClass": "second",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "cpp_7c704667"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "cpp_7c704667"
+        }
+    ]
+}
